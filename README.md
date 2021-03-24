@@ -4,8 +4,16 @@ Implementing a simple tic-tac-toe game using python and pygame for two players.
 The UI assets were designed using Adobe Illustrator.
 
 ### Game Menu
-![Game Menu](https://raw.githubusercontent.com/housecat90/tic-tac-toe-gui/main/resource/Menu%20ttt.png?raw=true=200x)
+<img src="https://raw.githubusercontent.com/housecat90/tic-tac-toe-gui/main/resource/Menu%20ttt.png" width="300">
 
 ### Game Board
-![Game Board](https://raw.githubusercontent.com/housecat90/tic-tac-toe-gui/main/resource/Game%20ttt.png?raw=true=200x)
+<img src="https://raw.githubusercontent.com/housecat90/tic-tac-toe-gui/main/resource/Game%20ttt.png" width="300">
 
+### X Won
+<img src="https://raw.githubusercontent.com/housecat90/tic-tac-toe-gui/main/resource/X%20won.png" width="300">
+
+### O Won
+<img src="https://raw.githubusercontent.com/housecat90/tic-tac-toe-gui/main/resource/O%20won.png" width="300">
+
+### Draw
+<img src="https://raw.githubusercontent.com/housecat90/tic-tac-toe-gui/main/resource/Draw.png" width="300">
